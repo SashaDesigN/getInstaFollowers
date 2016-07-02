@@ -14,7 +14,7 @@ clone this repo
 
 ### What is inside config.json
 
-This app developed to handle multiple accounts. You must add all accounts on config file, for example:
+This app developed to handle multiple accounts. You must add all accounts to /vendor/users.json file and create bject foor that user on config file, for example:
 
     {
       "account": {
