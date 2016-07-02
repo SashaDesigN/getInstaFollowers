@@ -16,16 +16,16 @@ clone this repo
 
 This app developed to handle multiple accounts. You must add all accounts on config file, for example:
 
-```{
-```  "account": {
-```    "alex": {
-```      "next": "",
-```      "log": {
-```        "count": 0
-```      }
-```    }
-```  }
-```}
+    {
+      "account": {
+        "alex": {
+          "next": "",
+          "log": {
+            "count": 0
+          }
+        }
+      }
+    }
 
 ### How to work with my DB
 
@@ -37,7 +37,7 @@ App will create insta_(user) collection for each new user. But you can easy chan
 
 I use Linux console to run it, but it can be work on browser too.
 
-``` php app.php
+     php app.php
 
 
 # License
